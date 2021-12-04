@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'jznato';
+   src:  url("https://jzedwards.github.io/fonts/jznato-v11-webfont.woff2") format('woff2'),
+         url("https://jzedwards.github.io/fonts/jznato-v11-webfont.woff") format('woff'),
+         url("https://jzedwards.github.io/fonts/jznato-v11.otf") format('opentype'); 
+}
+@font-face {
+   font-family: 'europa';
+   src:  url("https://jzedwards.github.io/fonts/europa-regular.v2-webfont.woff2") format('woff2'),
+         url("https://jzedwards.github.io/fonts/europa-regular.v2.woff") format('woff'),
+         url("https://jzedwards.github.io/fonts/europa-regular.v2.otf") format('opentype'); 
+}
+
+h5 { font-family: 'europa'; }
+h6 { font-family: 'jznato'; }
