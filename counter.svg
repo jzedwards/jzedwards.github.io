@@ -2,11 +2,12 @@
 <defs>
 <style type="text/css" >
 	@import      url("https://fonts.googleapis.com/css?family=Roboto");
-	@font-face  {font-family:"jznato" ; src: url("fonts/jznato-v11-webfont.woff2") format("woff2");}
+	@font-face  {font-family:"jznato" ; src: url("fonts/jznato-v11-webfont.woff2") format("woff2");}	
+	@font-face  {font-family:"europa" ; src: url("fonts/europa-regular.v2-webfont.woff2") format("woff2");}
 	#top		{font-family:"Roboto" ; font-size:14px ; }
  	#left		{font-family:"Roboto" ; font-size:24px ; } 
 	#right		{font-family:"Roboto" ; font-size:24px ; }
-	#factor 	{font-family:"Roboto Condensed" ; font-size:42px ; font-weight:700; fill:white ; dominant-baseline:middle ; text-anchor: middle;}
+	#factor 	{font-family:"Roboto Condensed" ; font-size:42px ; font-weight:700; dominant-baseline:middle ; text-anchor: middle;}
 	#symbol 	{font-family: "jznato"; font-size: 40pt ; font-weight: 500;}
 	.text		{fill:black ; dominant-baseline:middle ; text-anchor: middle;}
 </style>
@@ -16,5 +17,5 @@
 <text id="left" class="text" x="20%" y="40%" transform="rotate(270 30,60)">234</text>
 <text id="right" class="text" x="80%" y="40%" transform="rotate(90 120,60)">2Pz</text>
 <text id="symbol" class="text" x="50%" y="41%">$</text>
-<text id="factor" x="50%" y="75%">8-8-12</text>
+<text id="factor" fill="white" x="50%" y="75%">8-8-12</text>
 </svg> 
