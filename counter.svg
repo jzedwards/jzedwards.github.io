@@ -15,6 +15,6 @@
 <text id="top" class="text" x="50%" y="25%" dominant-baseline="middle" text-anchor="middle">XX</text>
 <text id="left" class="text" x="20%" y="40%" transform="rotate(270 30,60)">234</text>
 <text id="right" class="text" x="80%" y="40%" transform="rotate(90 120,60)">2Pz</text>
-<text id="symbol" class="text" x="50%" y="40%">$</text>
+<text id="symbol" class="text" x="50%" y="45%">$</text>
 <text id="factor" x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" >8-8-12</text>
 </svg> 
