@@ -1,10 +1,5 @@
 @font-face {
-<<<<<<< HEAD
-   font-family: 'jzedward';
-   src: url('JZNATO-modular-v13.otf');
-=======
    font-family: 'JZNATO-modular-v13';
    src: url("https://jzedwards.github.io/JZNATO-modular-v13.woff2") format('woff2');
->>>>>>> e1c83a69b7c8c82faf2cc06a972cc2ced3b21ada
 }
 h3 { font-family: 'JZNATO-modular-v13', serif; }
