@@ -1,4 +1,5 @@
 @font-face {
-   font-family: "titlefont";
+   font-family: "jzedward";
    src: url("./fonts/JZNATO-modular-v13.otf");
 }
+h1 { font-family: "jzedward", serif; }
