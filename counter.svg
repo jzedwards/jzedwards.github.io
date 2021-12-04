@@ -2,7 +2,7 @@
 <defs>
 <style type="text/css" >
 	@import      url("https://fonts.googleapis.com/css?family=Roboto");
-	@font-face  {font-family:"jznato" ; src: url("fonts/jznato-v11-webfont.woff2") format("woff2");}
+	@font-face  {font-family:"jznato" ; src: url("https://jzedwards.github.io/fonts/jznato-v11-webfont.woff2") format("woff2");}
 	#top		{font-family:"Roboto" ; font-size:16px ; }
  	#left		{font-family:"Roboto" ; font-size:24px ; } 
 	#right		{font-family:"Roboto" ; font-size:24px ; }
