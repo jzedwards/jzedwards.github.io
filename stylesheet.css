@@ -11,5 +11,5 @@
          url("https://jzedwards.github.io/fonts/europa-regular.v2.otf") format('opentype'); 
 }
 
-h5 { font-family: 'europa'; }
-h6 { font-family: 'jznato'; }
+h5 { font-family: 'europa'; font-size: 144px; font-weight: 400;}
+h6 { font-family: 'jznato'; font-size: 144px; font-weight: 400;}
