@@ -4,21 +4,23 @@
 	@import      url("https://fonts.googleapis.com/css?family=Inter");
 	@import      url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
 	@font-face  { font-family:"europa" ; src: url("https://jzedwards.github.io/fonts/europa-regular.v2-webfont.woff2") format("woff2");}
-	text  		{ fill:white ; font-family:Inter ; font-size:175% ; dominant-baseline: middle ; text-anchor: middle ;} 
+	text  		{ fill:white ; font-family:Inter ; font-size:24px ; text-anchor: middle } 
 	#bg			{ fill: seagreen ; }
 	#supp		{ fill: white ;}
-	#top		{ font-size:150% ; }
+	#top		{ font-size:18px ; }
 	#symbol 	{ font-family: "europa"; font-size: 75px ; font-weight: 500;}
-	#factor 	{ fill:white ; font-size:300% ; font-weight:bold;  dominant-baseline:auto ; text-anchor: middle;}
-	#factorc 	{ fill:white ; font-family: "Roboto Condensed" ; font-size:300% ; font-weight:bold;  dominant-baseline:auto ; text-anchor: middle;}
+	#factor 	{ fill:white ; font-size:48px ; font-weight:bold;  }
+	#factorc 	{ fill:white ; font-family: "Roboto Condensed" ; font-size:48px ; font-weight:bold; }
 </style>
 </defs>
+
 <rect id="bg" width="100%" height="100%" />
-<circle id="supp" cx="12.5%" cy="12.5%" r="10px" />
-<text id="top" x="50%" y="19%">I I I</text>
-<text id="left"  x="30" y="60" transform="rotate(270 30,60)">234</text>
-<text id="right"  x="125" y="60" transform="rotate(270 125,60)">2Pz</text>
-<text id="symbol"  x="50%" y="55%">a</text>
-<text id="factor" x="50%" y="87.5%"></text>
-<text id="factorc" x="50%" y="87.5%" >1-2-10</text>
+<circle id="supp" cx="19" cy="19" r="10" />
+<text id="top" x="75" y="32">I I I</text>
+<text id="left"  x="40" y="60" transform="rotate(270 38,60)">217</text>
+<text id="right"  x="133" y="60" transform="rotate(270 130,60)">2Pz</text>
+<text id="symbol"  x="75" y="90">a</text>
+<text id="factor" x="75" y="130">4-8</text>
+<text id="factorc" x="75" y="130" ></text>
+<path id="align" stroke="grey" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
 </svg> 
