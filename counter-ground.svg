@@ -22,5 +22,5 @@
 <text id="symbol" x="75" y="90">a</text>
 <text id="factor" x="75" y="130">4-8</text>
 <text id="factorc" x="75" y="130" >1-2-10</text>
-<path id="align" stroke="grey" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
+<path id="align" stroke="none" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
 </svg> 

@@ -15,5 +15,5 @@
 <text id="right" x="133" y="60" transform="rotate(270 130,60)">2Pz</text>
 <text id="symbol" x="75" y="80">a</text>
 <text id="factor" x="75" y="130">8-8-12</text>
-<path id="align" stroke="grey" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
+<path id="align" stroke="none" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
 </svg> 
