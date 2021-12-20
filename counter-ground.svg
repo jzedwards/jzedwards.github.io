@@ -1,4 +1,5 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150" >
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" >
+<!-- counter-ground.svg : sample Europa style ground unit -->
 <style type="text/css" >
 	@import      url("https://fonts.googleapis.com/css?family=Inter");
 	@import      url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
@@ -19,5 +20,5 @@
 <text id="symbol" x="75" y="90">a</text>
 <text id="factor" x="75" y="130">4-8</text>
 <text id="factorc" x="75" y="130" >1-2-10</text>
-<path id="align" stroke="none" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
+<path id="align" stroke="none" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150" />
 </svg> 
