@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto"); 
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed"); 
+@import url("https://fonts.googleapis.com/css?family=Inter"); 
+
 @font-face {
    font-family: 'jznato';
    src:  url("https://jzedwards.github.io/fonts/jznato-v11-webfont.woff2") format('woff2'),
@@ -11,12 +15,10 @@
          url("https://jzedwards.github.io/fonts/europa-regular.v2.otf") format('opentype'); 
 }
 @font-face {
-      font-family: 'univers';
-      src:  url("https://jzedwards.github.io/fonts/univers-webfont.woff2") format('woff2');
-   }
-@import { src:  url("https://fonts.googleapis.com/css?family=Roboto"); }
-@import { src:  url("https://fonts.googleapis.com/css?family=Roboto+Condensed"); }
-@import { src:  url("https://fonts.googleapis.com/css?family=Inter"); }
-body { font-family:Roboto } 
+   font-family: 'univers';
+   src:  url("https://jzedwards.github.io/fonts/univers-webfont.woff2") format('woff2');
+}
+
+body { font-family:'Inter'; } 
 h5 { font-family: 'europa'; font-size: 144px; font-weight: 400;}
 h6 { font-family: 'jznato'; font-size: 144px; font-weight: 400;}
