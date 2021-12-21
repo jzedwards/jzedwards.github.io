@@ -1,18 +1,18 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150" >
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" >
 <style type="text/css" >
-	text  		{ fill:white ; font-family:Inter ; font-size:24px ; text-anchor: middle ; dominant-baseline: central } 
+	text  		{ fill:white ; font-family:"Inter" ; font-size:24px ; text-anchor: middle ; } 
 	#bg			{ fill:seagreen ; }
 	#supp		{ fill:white ;}
 	#top		{ font-size:18px ; }
 	#symbol 	{ font-family: "europa"; font-size: 75px ; font-weight: 500;}
-	#factor 	{ font-size:48px ; font-weight:bold;  }
+	#factor 	{ fill:white ; font-size:48px ; font-weight:bold;  }
 </style>
 <rect id="bg" width="100%" height="100%" />
 <circle id="supp" cx="19" cy="19" r="10" />
-<text id="top" x="75" y="25">I I I</text>
-<text id="left" x="30" y="60" transform="rotate(270 30, 60)">217</text>
-<text id="right" x="120" y="60" transform="rotate(270 120,60)" >2Pz</text>
-<text id="symbol" x="75" y="70">a</text>
-<text id="factor" x="75" y="113">4-8</text>
+<text id="top" x="75" y="32">I I I</text>
+<text id="left" x="38" y="60" transform="rotate(270 38,60)">217</text>
+<text id="right" x="130" y="60" transform="rotate(270 130,60)">2Pz</text>
+<text id="symbol" x="75" y="90">a</text>
+<text id="factor" x="75" y="130">4-8</text>
 <path id="align" stroke="silver" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
 </svg> 
