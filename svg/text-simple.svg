@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" >
+<style>
+@font-face {
+      font-family: 'univers';
+      src:  url("https://jzedwards.github.io/fonts/univers-webfont.woff2") format('woff2');
+   }
+</style>
+<rect fill="white" width="100%" height="100%" />
+<text font-family="univers" x="75" y="75">text</text>
+</svg> 

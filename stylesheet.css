@@ -10,6 +10,10 @@
          url("https://jzedwards.github.io/fonts/europa-regular.v2.woff") format('woff'),
          url("https://jzedwards.github.io/fonts/europa-regular.v2.otf") format('opentype'); 
 }
+@font-face {
+      font-family: 'univers';
+      src:  url("https://jzedwards.github.io/fonts/univers-webfont.woff2") format('woff2');
+   }
 @import { src:  url("https://fonts.googleapis.com/css?family=Roboto"); }
 @import { src:  url("https://fonts.googleapis.com/css?family=Roboto+Condensed"); }
 @import { src:  url("https://fonts.googleapis.com/css?family=Inter"); }
