@@ -1,8 +1,8 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" >
 <!-- counter-ground.svg : sample SVG Europa style -->
 <style type="text/css" >
-	@font-face  { font-family:"TexGyreHeros" ; src: url("https://jzedwards.github.io/fonts/texgyeheros-regular.v2-webfont.woff") format("woff");}
-	@font-face  { font-family:"TexGyreHerosCN" ; src: url("https://jzedwards.github.io/fonts/texgyeheroscn-regular.v2-webfont.woff") format("woff");}
+	@font-face  { font-family:"TexGyreHeros" ; src: url("https://jzedwards.github.io/fonts/texgyreheros-regular.v2-webfont.woff") format("woff");}
+	@font-face  { font-family:"TexGyreHerosCN" ; src: url("https://jzedwards.github.io/fonts/texgyreheroscn-regular.v2-webfont.woff") format("woff");}
 	@font-face  { font-family:"europa" ; src: url("https://jzedwards.github.io/fonts/europa-regular.v2-webfont.woff2") format("woff2");}
 	text  		{ fill:white ; font-family:"TexGyreHeros" ; font-size:24px ; text-anchor: middle ; } 
 	#bg			{ fill:seagreen ; }
