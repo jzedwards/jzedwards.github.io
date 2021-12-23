@@ -1,16 +1,16 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" >
 <!-- counter-ground.svg : sample SVG Europa style -->
 <style type="text/css" >
-	@font-face  { font-family:"TexGyreHeros" ; src: url("https://jzedwards.github.io/fonts/texgyreheros-regular.v2-webfont.woff") format("woff");}
-	@font-face  { font-family:"TexGyreHerosCN" ; src: url("https://jzedwards.github.io/fonts/texgyreheroscn-regular.v2-webfont.woff") format("woff");}
+	@font-face  { font-family:"TexGyreHeros" ; src: url("https://jzedwards.github.io/fonts/texgyreheros-regular-webfont.woff") format("woff");}
+	@font-face  { font-family:"TexGyreHerosCN" ; src: url("https://jzedwards.github.io/fonts/texgyreheroscn-regular-webfont.woff") format("woff");}
 	@font-face  { font-family:"europa" ; src: url("https://jzedwards.github.io/fonts/europa-regular.v2-webfont.woff2") format("woff2");}
-	text  		{ fill:white ; font-family:"TexGyreHeros" ; font-size:24px ; text-anchor: middle ; } 
+	text  		{ fill:white ; font-family:"Tex Gyre Heros" ; font-size:24px ; text-anchor: middle ; } 
 	#bg			{ fill:seagreen ; }
 	#supp		{ fill:white ;}
 	#top		{ font-size:18px ; }
 	#symbol 	{ font-family: "europa"; font-size: 75px ; font-weight: 500;}
 	#factor 	{ fill:red ; font-size:48px ; font-weight:bold;  }
-	#factorc 	{ fill:white ; font-family: "TexGyreHerosCN" ; font-size:48px ; font-weight:bold; }
+	#factorc 	{ fill:white ; font-family: "Tex Gyre Heros CN" ; font-size:48px ; font-weight:bold; }
 </style>
 <rect id="bg" width="100%" height="100%" />
 <circle id="supp" cx="19" cy="19" r="10" />
