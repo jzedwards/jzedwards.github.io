@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" >
+<!-- counter-spi.svg : sample SPI style wargame counter -->
+<style type="text/css" >
+	@import      url("https://fonts.googleapis.com/css?family=Roboto");	
+	@import      url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
+	@font-face  { font-family:"JZNATO V11  3x2" ; src: url("https://jzedwards.github.io/fonts/jznato-v11-webfont.woff2") format("woff2");}
+	text  		{ font-family:Roboto ; font-size:24px ; fill:white ; text-anchor: middle ;  } 
+	#bg			{ fill:blue ; }
+	#top		{ font-size:18px ; }
+	#symbol 	{ font-family: "JZNATO V11  3x2"; font-size: 60px ; }
+	#factor 	{ font-family: "Roboto Condensed" ; font-size:48px ; font-weight:bold; }
+</style>
+<rect id="bg" width="100%" height="100%" />
+<text id="top" x="75" y="32">XX</text>
+<text id="left" x="37" y="60" transform="rotate(270 37,60)">217</text>
+<text id="right" x="130" y="60" transform="rotate(270 130,60)">2Pz</text>
+<text id="symbol" x="75" y="80">1</text>
+<text id="factor" x="75" y="130">4-4-6</text>
+<path id="align" stroke="silver" d="M19 0 V150 M0 19 H150 M131 0 V150 M0 131 H150"  />
+</svg> 
