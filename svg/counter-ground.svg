@@ -6,10 +6,10 @@
 	@font-face  { font-family:"europa" ; src: url("https://jzedwards.github.io/fonts/europa-regular.v2-webfont.woff2") format("woff2");}
 	text  		{ fill:white ; font-family:"Tex Gyre Heros" ; font-size:24px ; text-anchor: middle ; } 
 	#bg			{ fill:seagreen ; }
-	#supp		{ fill:white ;}
+	#supp		{ fill:none ;}
 	#top		{ font-size:18px ; }
 	#symbol 	{ font-family: "europa"; font-size: 75px ; font-weight: 500;}
-	#factor 	{ fill:red ; font-size:48px ; font-weight:bold;  }
+	#factor 	{ fill:none ; font-size:48px ; font-weight:bold;  }
 	#factorc 	{ fill:white ; font-family: "Tex Gyre Heros CN" ; font-size:48px ; font-weight:bold; }
 </style>
 <rect id="bg" width="100%" height="100%" />
