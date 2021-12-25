@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <style type="text/css">
+        text {
+            font-family: "Tex Gyre Heros";
+            font-size: 24px;
+            fill: black;
+            text-anchor: middle;
+        }
+
+        #bg {
+            fill: chartreuse;
+        }
+
+        #supp {
+            fill: none;
+        }
+
+        #top {
+            font-size: 18px;
+        }
+
+        #symbol {
+            font-family: "europa";
+            font-size: 72px;
+        }
+
+        #factor {
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        #factorc {
+            font-size: 48px;
+            font-weight: bold;
+            font-family: "Tex Gyre Heros Cn";
+        }
+    </style>
+    <rect id="bg" width="100%" height="100%" />
+    <circle id="supp" cx="19" cy="19" r="10" />
+    <text id="top" x="75" y="32">XX</text>
+    <text id="left" x="37" y="60" transform="rotate(270 37,60)">016</text>
+    <text id="right" x="130" y="60" transform="rotate(270 130,60)">016</text>
+    <!-- text id="symbol" x="75" y="90">&#47;</text -->
+        <svg viewbox="400 200">
+            <rect stroke="red" fill="none"stroke-width="4" width="40" height="20" rx="10"/>
+        </svg>
+    <text id="factor" x="75" y="130">4-6</text>
+    <text id="factorc" x="75" y="130"></text>
+</svg>

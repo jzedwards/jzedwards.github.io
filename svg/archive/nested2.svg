@@ -1,0 +1,10 @@
+<svg width="500" height="500" style="background: gray">
+    <style>
+    #sym { fill:red ; }
+    </style>
+<svg id="sym" x="75" y="75" viewbox="-3 -3 200 200">
+    <rect id="fred" width="50" height="25" rx="13" fill="none" stroke="black" stroke-width=5 >
+<!-- circle cx="50" cy="50" r="50" style="fill: red" /-->
+</svg>
+<circle cx="50" cy="50" r="50" style="fill: yellow" />
+</svg>
