@@ -11,4 +11,10 @@
          url("https://jzedwards.github.io/fonts/europa-regular.v2.woff") format('woff'),
          url("https://jzedwards.github.io/fonts/europa-regular.v2.otf") format('opentype'); 
 }
+.symbol {
+      font-family: jznato; font-size: x-large ; font-weight: bold;
+}
+.europa {
+      font-family: europa; font-size: x-large ; font-weight: bold;
+}
 body { font-family: texgyreheros, 'Tex Gyre Heros', sans-serif ; } 
