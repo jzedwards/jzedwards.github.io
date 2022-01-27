@@ -34,7 +34,7 @@
         #factor {
             font-size: 48px;
             font-weight: bold;
-            fill:red ;
+            fill:none ;
         }
 
         #factorc {
