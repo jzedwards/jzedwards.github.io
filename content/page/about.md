@@ -35,3 +35,5 @@ wartwork is created with Hugo, a static (web) site generator, or SSG. It is base
 Any original content is released under Creative Commons BY-SA-NC 4.0 International. See https://creativecommons.org/licenses/by-nc-sa/4.0/ for details.
 
 In summary, you can freely use or transform any content, provided it is non-commercial and you credit the author (wartwork, simpubs or John Edwards)
+
+This is a test of site create
