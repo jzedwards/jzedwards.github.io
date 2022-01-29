@@ -1,0 +1,53 @@
+baseurl = "https://jzedwards.github.io"
+title = "wartwork"
+theme = "ghostwriter"
+publishdir = "docs"
+
+[author]
+    name = "wartwork"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "wartwork"
+    description = "wargame artwork... with warts"
+    github = "https://github.com/jzedwards"
+    twitter = "https://twitter.com/jzedward"
+    facebook = "https://facebook.com/jzedward"
+    email = "webmaster@wartwork.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "2 Jan 2006"
+
+[Permalinks]
+    post = "/:filename/"
+
+[[menu.main]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Contact"
+url = "/page/contact/"
+weight = 97
+
+[[menu.main]]
+name = "About"
+url = "/page/about/"
+weight = 99
+
+[[menu.main]]
+name = "Warts"
+url = "/page/warts/"
+weight = 98
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[markup]
+ [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true 

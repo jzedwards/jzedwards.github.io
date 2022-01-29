@@ -1,0 +1,18 @@
+baseurl = "/"
+title = "jzblog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/jzedwards"
+    twitter = "https://twitter.com/jzedward"
+    email = "jzedward@hotmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "2 Jan 2006"
+
+[Permalinks]
+    post = "/:filename/"

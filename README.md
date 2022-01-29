@@ -1,3 +1,3 @@
-# jzedwards.github.io
-Github static web site
-features sample web fonts for NATO symbols
+# jzhugo
+## Hugo CMS repository
+Repo for Hugo test web site setup
