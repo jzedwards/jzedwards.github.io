@@ -9,7 +9,7 @@ draft = "false"
 
 ## The Voyage and Wreck of the BSM Pandora
 
-![Pandonra SVG](img/counters-pandora.jpg)
+![Pandora SVG](img/counters-pandora.jpg)
 The two *Pandora* games published in Ares magazine are SPI classics. wartwork has been working to clean up and re-create them for fun, possible use in a vassal module, or for use in some Universe campaigns.
 
 The counter work is available on Github at https://github.com/jzedwards/jzcounters
