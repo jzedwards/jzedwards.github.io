@@ -1,4 +1,4 @@
-baseurl = "https://jzedwards.github.io"
+baseurl = "https://jzedwards.github.io/"
 title = "wartwork"
 theme = "ghostwriter"
 publishdir = "docs"
