@@ -10,8 +10,8 @@ draft = "false"
 ## wartwork's Favourite Wargames
 wartwork is all about wargames, and we have some favourites. As you will see elsewhere, classic 70s and 80s games from SPI and GDW are our top picks, even today.
 
-## Top 10
-These are some of our all time favourites, in no particular order
+## Top of the Pops
+These are 10 (+) of our all time favourites, in no particular order
 
 - Panzgruppe Guderian (SPI)
 - Fire in the East/Scorched Earth (GDW)
@@ -24,7 +24,7 @@ These are some of our all time favourites, in no particular order
 - Freedom in the Galaxy (SPI)
 - Twilight Struggle (GMT)
 
-![favs](/img/fav-top10.jpg)
+![Top 10](fav-games-top10.jpg)
 
 *Guderian* gets in for the game and the system, spawning Operation Typhoon, The Army Group South quad, and many more.
 
